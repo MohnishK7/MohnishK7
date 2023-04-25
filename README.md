@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I’m @MohnishK7<br>I’m interested in Programming and Research Works<br>I’m currently learning Computer Science<br>I’m looking to collaborate on IoT based research<br>How to reach me linkedin.com/in/mohnish-kumar-7b0037172
 
+[![Mohnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohnishK7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohnish4074) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohnish Kumar) 
