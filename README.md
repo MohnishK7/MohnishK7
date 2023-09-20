@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **OpenCV**
 
-- 🌱 I’m currently learning **NEXT js.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **ML/AI Research**
 
