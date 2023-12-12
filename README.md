@@ -1,4 +1,4 @@
-<h3 align="left"># Hi there! 👋 I'm Mohnish Kumar<br><br>I'm a final-year undergraduate student passionate about developing purpose-driven applications and solving challenging problems. My technical skills are focused on building robust and efficient solutions for various applications. 💻🚀</h3>
+<h3 align="left"># Hi there! 👋 I'm Mohnish Kumar<br><br>I'm a final-year undergraduate student, passionate about developing purpose-driven applications and solving challenging problems. My technical skills are focused on building robust and efficient solutions for various applications. 💻🚀</h3>
 
 ###
 
