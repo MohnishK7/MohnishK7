@@ -1,68 +1,126 @@
-<h3 align="left"># Hi there! 👋 I'm Mohnish Kumar<br><br>I'm a final-year undergraduate student, passionate about developing purpose-driven applications and solving challenging problems. My technical skills are focused on building robust and efficient solutions for various applications. 💻🚀</h3>
+<h1 align="center">Hi there! 👋 I'm Mohnish Kumar</h1>
 
-###
+<h3 align="center">
+  Backend Developer | Spring Boot Specialist | Java Enthusiast
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohnishK7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MohnishK7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohnishK7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  I'm a final-year undergraduate student passionate about engineering robust backend systems. My focus is on building scalable APIs, optimizing database performance, and solving complex architectural problems using the <b>Java Spring Ecosystem</b>.
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MohnishK7/MohnishK7/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  🌱 <b>Currently learning:</b> Microservices Architecture & Cloud Deployment (AWS)<br>
+  👯 <b>Looking to collaborate on:</b> Open Source Java Projects<br>
+  💬 <b>Ask me about:</b> Java, Spring Boot, REST APIs, and SQL
+</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MohnishK7/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohnishK7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohnishK7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+### 🛠️ Technical Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>💻 Other Skills (Frontend & Languages)</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,python,react,html,css,c,cpp,csharp" />
+  </div>
+</details>
+
+---
+
+<div align="center">
+  <h3>📫 Connect with me</h3>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTA">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohnishK7&theme=darcula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MohnishK7/MohnishK7/output/snake.svg" alt="Snake animation" width="100%" />
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MohnishK7/count.svg?" alt="Visitor Count" />
+</div>
